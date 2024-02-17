@@ -644,7 +644,7 @@ function TestimonialCard({
                     color: "gray",
                     margin: "20px 0"
                 }}>
-                    Shivkumar Chauahan
+                    Neha Naikdhure
                 </Typography>
                 <audio controls style={{ width: "100%" }}>
                     <source src="####" type="audio/mpeg" />
